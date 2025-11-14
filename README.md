@@ -1,2 +1,2 @@
-# Where-To-Watch
+# Where To Watch
 
