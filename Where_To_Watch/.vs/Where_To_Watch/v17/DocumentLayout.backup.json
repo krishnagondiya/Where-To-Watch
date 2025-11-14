@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\sem-6\\Where_To_Watch_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2973BC78-7877-4D67-8375-D6AC8E98EBF6}|Where_To_Watch.csproj|c:\\sem-6\\where_to_watch_1\\moviedetails1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2973BC78-7877-4D67-8375-D6AC8E98EBF6}|Where_To_Watch.csproj|solutionrelative:moviedetails1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2973BC78-7877-4D67-8375-D6AC8E98EBF6}|Where_To_Watch.csproj|c:\\sem-6\\where_to_watch_1\\moviedetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2973BC78-7877-4D67-8375-D6AC8E98EBF6}|Where_To_Watch.csproj|solutionrelative:moviedetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2973BC78-7877-4D67-8375-D6AC8E98EBF6}|Where_To_Watch.csproj|C:\\sem-6\\Where_To_Watch_1\\admindashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2973BC78-7877-4D67-8375-D6AC8E98EBF6}|Where_To_Watch.csproj|solutionrelative:admindashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2973BC78-7877-4D67-8375-D6AC8E98EBF6}|Where_To_Watch.csproj|c:\\sem-6\\where_to_watch_1\\userdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2973BC78-7877-4D67-8375-D6AC8E98EBF6}|Where_To_Watch.csproj|solutionrelative:userdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieDetails1.aspx.cs",
+              "DocumentMoniker": "C:\\sem-6\\Where_To_Watch_1\\MovieDetails1.aspx.cs",
+              "RelativeDocumentMoniker": "MovieDetails1.aspx.cs",
+              "ToolTip": "C:\\sem-6\\Where_To_Watch_1\\MovieDetails1.aspx.cs",
+              "RelativeToolTip": "MovieDetails1.aspx.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwFUAAACfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:40:06.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieDetails.aspx.cs",
+              "DocumentMoniker": "C:\\sem-6\\Where_To_Watch_1\\MovieDetails.aspx.cs",
+              "RelativeDocumentMoniker": "MovieDetails.aspx.cs",
+              "ToolTip": "C:\\sem-6\\Where_To_Watch_1\\MovieDetails.aspx.cs",
+              "RelativeToolTip": "MovieDetails.aspx.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwFIAAACfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:39:35.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDashboard.aspx",
+              "DocumentMoniker": "C:\\sem-6\\Where_To_Watch_1\\UserDashboard.aspx",
+              "RelativeDocumentMoniker": "UserDashboard.aspx",
+              "ToolTip": "C:\\sem-6\\Where_To_Watch_1\\UserDashboard.aspx",
+              "RelativeToolTip": "UserDashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-04T07:28:58.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminDashboard.aspx",
+              "DocumentMoniker": "C:\\sem-6\\Where_To_Watch_1\\AdminDashboard.aspx",
+              "RelativeDocumentMoniker": "AdminDashboard.aspx",
+              "ToolTip": "C:\\sem-6\\Where_To_Watch_1\\AdminDashboard.aspx",
+              "RelativeToolTip": "AdminDashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-04T07:28:34.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
